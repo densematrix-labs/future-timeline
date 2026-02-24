@@ -1,0 +1,89 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "pricing": "Tarifs"
+  },
+  "hero": {
+    "title": "Visualisez",
+    "titleAccent": "L'avenir",
+    "subtitle": "Générateur de chronologie alimenté par l'IA pour visualiser les futurs potentiels des individus, entreprises et technologies"
+  },
+  "input": {
+    "subjectLabel": "Quel avenir voulez-vous explorer ?",
+    "subjectPlaceholder": "ex: IA, Tesla, Ma Carrière, Informatique Quantique...",
+    "subjectHint": "Entrez n'importe quel sujet : personne, entreprise, technologie ou concept",
+    "yearsLabel": "Dans combien d'années ?",
+    "years": "ans",
+    "generate": "Générer la chronologie",
+    "generating": "Génération",
+    "tokensLeft": "générations restantes"
+  },
+  "timeline": {
+    "futureOf": "L'avenir de"
+  },
+  "features": {
+    "title": "Comment ça marche",
+    "ai": {
+      "title": "Propulsé par l'IA",
+      "desc": "L'IA avancée analyse les tendances et génère des scénarios futurs plausibles"
+    },
+    "visual": {
+      "title": "Visualisation interactive",
+      "desc": "Belle chronologie animée avec des cartes de jalons détaillées"
+    },
+    "share": {
+      "title": "Partager & Exporter",
+      "desc": "Téléchargez votre chronologie ou partagez-la avec un lien unique"
+    },
+    "multi": {
+      "title": "7 Langues",
+      "desc": "Générez des chronologies en français, anglais, japonais et plus"
+    }
+  },
+  "pricing": {
+    "title": "Tarifs",
+    "subtitle": "Choisissez le plan qui vous convient",
+    "popular": "Plus populaire",
+    "month": "mois",
+    "unlimited": "Illimité",
+    "generations": "générations",
+    "buyNow": "Acheter",
+    "processing": "Traitement...",
+    "guarantee": "Garantie de remboursement de 30 jours",
+    "starter": {
+      "name": "Starter",
+      "feature1": "30 générations de chronologie",
+      "feature2": "Tous les styles de visualisation",
+      "feature3": "Export PNG/SVG"
+    },
+    "pro": {
+      "name": "Pro",
+      "feature1": "100 générations de chronologie",
+      "feature2": "Génération prioritaire",
+      "feature3": "Export haute résolution"
+    },
+    "unlimited": {
+      "name": "Illimité",
+      "feature1": "Générations illimitées",
+      "feature2": "Accès API",
+      "feature3": "Support premium"
+    }
+  },
+  "success": {
+    "title": "Paiement réussi !",
+    "subtitle": "Vos tokens ont été ajoutés à votre compte",
+    "plan": "Plan",
+    "tokensAvailable": "Tokens disponibles",
+    "startGenerating": "Commencer à générer",
+    "verifying": "Vérification du paiement...",
+    "errorTitle": "Une erreur s'est produite",
+    "backHome": "Retour à l'accueil"
+  },
+  "errors": {
+    "noTokens": "Plus de générations disponibles.",
+    "getPremium": "En obtenir plus →"
+  },
+  "footer": {
+    "builtBy": "Créé par"
+  }
+}

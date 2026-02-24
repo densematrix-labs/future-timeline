@@ -1,0 +1,89 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "pricing": "Precios"
+  },
+  "hero": {
+    "title": "Visualiza el",
+    "titleAccent": "Futuro",
+    "subtitle": "Generador de líneas de tiempo impulsado por IA que visualiza futuros potenciales para individuos, empresas y tecnologías"
+  },
+  "input": {
+    "subjectLabel": "¿Qué futuro quieres explorar?",
+    "subjectPlaceholder": "ej: IA, Tesla, Mi Carrera, Computación Cuántica...",
+    "subjectHint": "Ingresa cualquier tema: persona, empresa, tecnología o concepto",
+    "yearsLabel": "¿Cuántos años hacia el futuro?",
+    "years": "años",
+    "generate": "Generar línea de tiempo",
+    "generating": "Generando",
+    "tokensLeft": "generaciones restantes"
+  },
+  "timeline": {
+    "futureOf": "Futuro de"
+  },
+  "features": {
+    "title": "Cómo funciona",
+    "ai": {
+      "title": "Impulsado por IA",
+      "desc": "La IA avanzada analiza tendencias y genera escenarios futuros plausibles"
+    },
+    "visual": {
+      "title": "Visualización interactiva",
+      "desc": "Hermosa línea de tiempo animada con tarjetas de hitos detalladas"
+    },
+    "share": {
+      "title": "Compartir y exportar",
+      "desc": "Descarga tu línea de tiempo o compártela con un enlace único"
+    },
+    "multi": {
+      "title": "7 Idiomas",
+      "desc": "Genera líneas de tiempo en español, inglés, japonés y más"
+    }
+  },
+  "pricing": {
+    "title": "Precios",
+    "subtitle": "Elige el plan que mejor se adapte a ti",
+    "popular": "Más popular",
+    "month": "mes",
+    "unlimited": "Ilimitado",
+    "generations": "generaciones",
+    "buyNow": "Comprar ahora",
+    "processing": "Procesando...",
+    "guarantee": "Garantía de devolución de 30 días",
+    "starter": {
+      "name": "Inicial",
+      "feature1": "30 generaciones de línea de tiempo",
+      "feature2": "Todos los estilos de visualización",
+      "feature3": "Exportación PNG/SVG"
+    },
+    "pro": {
+      "name": "Pro",
+      "feature1": "100 generaciones de línea de tiempo",
+      "feature2": "Generación prioritaria",
+      "feature3": "Exportación de alta resolución"
+    },
+    "unlimited": {
+      "name": "Ilimitado",
+      "feature1": "Generaciones ilimitadas",
+      "feature2": "Acceso a API",
+      "feature3": "Soporte premium"
+    }
+  },
+  "success": {
+    "title": "¡Pago exitoso!",
+    "subtitle": "Tus tokens han sido añadidos a tu cuenta",
+    "plan": "Plan",
+    "tokensAvailable": "Tokens disponibles",
+    "startGenerating": "Comenzar a generar",
+    "verifying": "Verificando pago...",
+    "errorTitle": "Algo salió mal",
+    "backHome": "Volver al inicio"
+  },
+  "errors": {
+    "noTokens": "No quedan generaciones.",
+    "getPremium": "Obtener más →"
+  },
+  "footer": {
+    "builtBy": "Creado por"
+  }
+}

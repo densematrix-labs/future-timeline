@@ -1,0 +1,89 @@
+{
+  "nav": {
+    "home": "首页",
+    "pricing": "定价"
+  },
+  "hero": {
+    "title": "可视化",
+    "titleAccent": "未来",
+    "subtitle": "AI 驱动的时间线生成器，为个人、公司和技术可视化潜在的未来发展"
+  },
+  "input": {
+    "subjectLabel": "你想探索什么样的未来？",
+    "subjectPlaceholder": "例如：人工智能、特斯拉、我的职业、量子计算...",
+    "subjectHint": "输入任何主题：人物、公司、技术或概念",
+    "yearsLabel": "展望多少年后？",
+    "years": "年",
+    "generate": "生成时间线",
+    "generating": "生成中",
+    "tokensLeft": "次剩余"
+  },
+  "timeline": {
+    "futureOf": "未来展望："
+  },
+  "features": {
+    "title": "工作原理",
+    "ai": {
+      "title": "AI 驱动",
+      "desc": "先进的 AI 分析趋势并生成合理的未来场景"
+    },
+    "visual": {
+      "title": "交互式可视化",
+      "desc": "精美动画时间线，配有详细的里程碑卡片"
+    },
+    "share": {
+      "title": "分享与导出",
+      "desc": "下载时间线或通过独特链接分享"
+    },
+    "multi": {
+      "title": "7 种语言",
+      "desc": "支持中文、英文、日文等多种语言生成时间线"
+    }
+  },
+  "pricing": {
+    "title": "定价",
+    "subtitle": "选择适合你的方案",
+    "popular": "最受欢迎",
+    "month": "月",
+    "unlimited": "无限",
+    "generations": "次生成",
+    "buyNow": "立即购买",
+    "processing": "处理中...",
+    "guarantee": "30 天退款保证",
+    "starter": {
+      "name": "入门版",
+      "feature1": "30 次时间线生成",
+      "feature2": "所有可视化风格",
+      "feature3": "PNG/SVG 导出"
+    },
+    "pro": {
+      "name": "专业版",
+      "feature1": "100 次时间线生成",
+      "feature2": "优先生成",
+      "feature3": "高分辨率导出"
+    },
+    "unlimited": {
+      "name": "无限版",
+      "feature1": "无限次生成",
+      "feature2": "API 访问",
+      "feature3": "专属支持"
+    }
+  },
+  "success": {
+    "title": "支付成功！",
+    "subtitle": "额度已添加到您的账户",
+    "plan": "方案",
+    "tokensAvailable": "可用次数",
+    "startGenerating": "开始生成",
+    "verifying": "验证支付中...",
+    "errorTitle": "出现问题",
+    "backHome": "返回首页"
+  },
+  "errors": {
+    "noTokens": "生成次数已用完。",
+    "getPremium": "获取更多 →"
+  },
+  "footer": {
+    "builtBy": "由"
+  }
+}

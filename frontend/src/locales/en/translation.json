@@ -1,0 +1,89 @@
+{
+  "nav": {
+    "home": "Home",
+    "pricing": "Pricing"
+  },
+  "hero": {
+    "title": "Visualize The",
+    "titleAccent": "Future",
+    "subtitle": "AI-powered timeline generator that visualizes potential futures for individuals, companies, and technologies"
+  },
+  "input": {
+    "subjectLabel": "What future do you want to explore?",
+    "subjectPlaceholder": "e.g., AI, Tesla, My Career, Quantum Computing...",
+    "subjectHint": "Enter any topic: person, company, technology, or concept",
+    "yearsLabel": "How far into the future?",
+    "years": "years",
+    "generate": "Generate Timeline",
+    "generating": "Generating",
+    "tokensLeft": "generations left"
+  },
+  "timeline": {
+    "futureOf": "Future of"
+  },
+  "features": {
+    "title": "How It Works",
+    "ai": {
+      "title": "AI-Powered",
+      "desc": "Advanced AI analyzes trends and generates plausible future scenarios"
+    },
+    "visual": {
+      "title": "Interactive Visualization",
+      "desc": "Beautiful, animated timeline with detailed milestone cards"
+    },
+    "share": {
+      "title": "Share & Export",
+      "desc": "Download your timeline or share it with a unique link"
+    },
+    "multi": {
+      "title": "7 Languages",
+      "desc": "Generate timelines in English, Chinese, Japanese, and more"
+    }
+  },
+  "pricing": {
+    "title": "Pricing",
+    "subtitle": "Choose the plan that fits your needs",
+    "popular": "Most Popular",
+    "month": "mo",
+    "unlimited": "Unlimited",
+    "generations": "generations",
+    "buyNow": "Get Started",
+    "processing": "Processing...",
+    "guarantee": "30-day money-back guarantee",
+    "starter": {
+      "name": "Starter",
+      "feature1": "30 timeline generations",
+      "feature2": "All visualization styles",
+      "feature3": "PNG/SVG export"
+    },
+    "pro": {
+      "name": "Pro",
+      "feature1": "100 timeline generations",
+      "feature2": "Priority generation",
+      "feature3": "High-resolution export"
+    },
+    "unlimited": {
+      "name": "Unlimited",
+      "feature1": "Unlimited generations",
+      "feature2": "API access",
+      "feature3": "Premium support"
+    }
+  },
+  "success": {
+    "title": "Payment Successful!",
+    "subtitle": "Your tokens have been added to your account",
+    "plan": "Plan",
+    "tokensAvailable": "Tokens Available",
+    "startGenerating": "Start Generating",
+    "verifying": "Verifying payment...",
+    "errorTitle": "Something went wrong",
+    "backHome": "Back to Home"
+  },
+  "errors": {
+    "noTokens": "No generations left.",
+    "getPremium": "Get more →"
+  },
+  "footer": {
+    "builtBy": "Built by"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "nav": {
+    "home": "홈",
+    "pricing": "가격"
+  },
+  "hero": {
+    "title": "미래를",
+    "titleAccent": "시각화하세요",
+    "subtitle": "개인, 기업, 기술의 잠재적 미래를 시각화하는 AI 기반 타임라인 생성기"
+  },
+  "input": {
+    "subjectLabel": "어떤 미래를 탐구하고 싶으신가요?",
+    "subjectPlaceholder": "예: AI, 테슬라, 내 커리어, 양자 컴퓨팅...",
+    "subjectHint": "인물, 기업, 기술 또는 개념 등 어떤 주제든 입력하세요",
+    "yearsLabel": "몇 년 후까지?",
+    "years": "년",
+    "generate": "타임라인 생성",
+    "generating": "생성 중",
+    "tokensLeft": "회 남음"
+  },
+  "timeline": {
+    "futureOf": "의 미래"
+  },
+  "features": {
+    "title": "작동 방식",
+    "ai": {
+      "title": "AI 기반",
+      "desc": "고급 AI가 트렌드를 분석하고 그럴듯한 미래 시나리오를 생성합니다"
+    },
+    "visual": {
+      "title": "인터랙티브 시각화",
+      "desc": "상세한 마일스톤 카드가 있는 아름답고 애니메이션화된 타임라인"
+    },
+    "share": {
+      "title": "공유 및 내보내기",
+      "desc": "타임라인을 다운로드하거나 고유 링크로 공유하세요"
+    },
+    "multi": {
+      "title": "7개 언어",
+      "desc": "한국어, 영어, 일본어 등 다양한 언어로 타임라인을 생성하세요"
+    }
+  },
+  "pricing": {
+    "title": "가격",
+    "subtitle": "필요에 맞는 플랜을 선택하세요",
+    "popular": "인기",
+    "month": "월",
+    "unlimited": "무제한",
+    "generations": "회 생성",
+    "buyNow": "구매하기",
+    "processing": "처리 중...",
+    "guarantee": "30일 환불 보장",
+    "starter": {
+      "name": "스타터",
+      "feature1": "30회 타임라인 생성",
+      "feature2": "모든 시각화 스타일",
+      "feature3": "PNG/SVG 내보내기"
+    },
+    "pro": {
+      "name": "프로",
+      "feature1": "100회 타임라인 생성",
+      "feature2": "우선 생성",
+      "feature3": "고해상도 내보내기"
+    },
+    "unlimited": {
+      "name": "무제한",
+      "feature1": "무제한 생성",
+      "feature2": "API 접근",
+      "feature3": "프리미엄 지원"
+    }
+  },
+  "success": {
+    "title": "결제 완료!",
+    "subtitle": "토큰이 계정에 추가되었습니다",
+    "plan": "플랜",
+    "tokensAvailable": "사용 가능한 토큰",
+    "startGenerating": "생성 시작",
+    "verifying": "결제 확인 중...",
+    "errorTitle": "문제가 발생했습니다",
+    "backHome": "홈으로 돌아가기"
+  },
+  "errors": {
+    "noTokens": "생성 횟수가 소진되었습니다.",
+    "getPremium": "더 받기 →"
+  },
+  "footer": {
+    "builtBy": "제작:"
+  }
+}

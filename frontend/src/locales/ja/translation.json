@@ -1,0 +1,89 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "pricing": "料金"
+  },
+  "hero": {
+    "title": "未来を",
+    "titleAccent": "可視化",
+    "subtitle": "AI駆動のタイムラインジェネレーター - 個人、企業、テクノロジーの潜在的な未来を可視化"
+  },
+  "input": {
+    "subjectLabel": "どんな未来を探りたいですか？",
+    "subjectPlaceholder": "例：AI、テスラ、私のキャリア、量子コンピューティング...",
+    "subjectHint": "人物、企業、テクノロジー、概念など、任意のトピックを入力",
+    "yearsLabel": "何年先まで？",
+    "years": "年",
+    "generate": "タイムライン生成",
+    "generating": "生成中",
+    "tokensLeft": "回残り"
+  },
+  "timeline": {
+    "futureOf": "の未来"
+  },
+  "features": {
+    "title": "仕組み",
+    "ai": {
+      "title": "AI駆動",
+      "desc": "高度なAIがトレンドを分析し、もっともらしい将来シナリオを生成"
+    },
+    "visual": {
+      "title": "インタラクティブ可視化",
+      "desc": "美しいアニメーション付きタイムラインと詳細なマイルストーンカード"
+    },
+    "share": {
+      "title": "共有・エクスポート",
+      "desc": "タイムラインをダウンロードするか、ユニークなリンクで共有"
+    },
+    "multi": {
+      "title": "7言語対応",
+      "desc": "英語、日本語、中国語など多言語でタイムライン生成"
+    }
+  },
+  "pricing": {
+    "title": "料金プラン",
+    "subtitle": "ニーズに合ったプランを選択",
+    "popular": "人気",
+    "month": "月",
+    "unlimited": "無制限",
+    "generations": "回生成",
+    "buyNow": "購入する",
+    "processing": "処理中...",
+    "guarantee": "30日間返金保証",
+    "starter": {
+      "name": "スターター",
+      "feature1": "30回のタイムライン生成",
+      "feature2": "全ての可視化スタイル",
+      "feature3": "PNG/SVGエクスポート"
+    },
+    "pro": {
+      "name": "プロ",
+      "feature1": "100回のタイムライン生成",
+      "feature2": "優先生成",
+      "feature3": "高解像度エクスポート"
+    },
+    "unlimited": {
+      "name": "無制限",
+      "feature1": "無制限の生成",
+      "feature2": "APIアクセス",
+      "feature3": "プレミアムサポート"
+    }
+  },
+  "success": {
+    "title": "支払い完了！",
+    "subtitle": "トークンがアカウントに追加されました",
+    "plan": "プラン",
+    "tokensAvailable": "利用可能回数",
+    "startGenerating": "生成を開始",
+    "verifying": "支払いを確認中...",
+    "errorTitle": "エラーが発生しました",
+    "backHome": "ホームに戻る"
+  },
+  "errors": {
+    "noTokens": "生成回数を使い切りました。",
+    "getPremium": "追加購入 →"
+  },
+  "footer": {
+    "builtBy": "開発："
+  }
+}

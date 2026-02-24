@@ -1,0 +1,89 @@
+{
+  "nav": {
+    "home": "Start",
+    "pricing": "Preise"
+  },
+  "hero": {
+    "title": "Visualisieren Sie die",
+    "titleAccent": "Zukunft",
+    "subtitle": "KI-gestützter Timeline-Generator zur Visualisierung potenzieller Zukunftsszenarien für Personen, Unternehmen und Technologien"
+  },
+  "input": {
+    "subjectLabel": "Welche Zukunft möchten Sie erkunden?",
+    "subjectPlaceholder": "z.B. KI, Tesla, Meine Karriere, Quantencomputing...",
+    "subjectHint": "Geben Sie ein beliebiges Thema ein: Person, Unternehmen, Technologie oder Konzept",
+    "yearsLabel": "Wie weit in die Zukunft?",
+    "years": "Jahre",
+    "generate": "Timeline generieren",
+    "generating": "Generiere",
+    "tokensLeft": "Generierungen übrig"
+  },
+  "timeline": {
+    "futureOf": "Zukunft von"
+  },
+  "features": {
+    "title": "So funktioniert es",
+    "ai": {
+      "title": "KI-gestützt",
+      "desc": "Fortschrittliche KI analysiert Trends und generiert plausible Zukunftsszenarien"
+    },
+    "visual": {
+      "title": "Interaktive Visualisierung",
+      "desc": "Schöne, animierte Timeline mit detaillierten Meilenstein-Karten"
+    },
+    "share": {
+      "title": "Teilen & Exportieren",
+      "desc": "Laden Sie Ihre Timeline herunter oder teilen Sie sie mit einem einzigartigen Link"
+    },
+    "multi": {
+      "title": "7 Sprachen",
+      "desc": "Generieren Sie Timelines auf Deutsch, Englisch, Japanisch und mehr"
+    }
+  },
+  "pricing": {
+    "title": "Preise",
+    "subtitle": "Wählen Sie den passenden Plan",
+    "popular": "Beliebteste",
+    "month": "Monat",
+    "unlimited": "Unbegrenzt",
+    "generations": "Generierungen",
+    "buyNow": "Jetzt kaufen",
+    "processing": "Verarbeite...",
+    "guarantee": "30 Tage Geld-zurück-Garantie",
+    "starter": {
+      "name": "Starter",
+      "feature1": "30 Timeline-Generierungen",
+      "feature2": "Alle Visualisierungsstile",
+      "feature3": "PNG/SVG-Export"
+    },
+    "pro": {
+      "name": "Pro",
+      "feature1": "100 Timeline-Generierungen",
+      "feature2": "Prioritäts-Generierung",
+      "feature3": "Hochauflösender Export"
+    },
+    "unlimited": {
+      "name": "Unbegrenzt",
+      "feature1": "Unbegrenzte Generierungen",
+      "feature2": "API-Zugang",
+      "feature3": "Premium-Support"
+    }
+  },
+  "success": {
+    "title": "Zahlung erfolgreich!",
+    "subtitle": "Ihre Tokens wurden Ihrem Konto hinzugefügt",
+    "plan": "Plan",
+    "tokensAvailable": "Verfügbare Tokens",
+    "startGenerating": "Generierung starten",
+    "verifying": "Zahlung wird überprüft...",
+    "errorTitle": "Etwas ist schiefgelaufen",
+    "backHome": "Zurück zur Startseite"
+  },
+  "errors": {
+    "noTokens": "Keine Generierungen mehr übrig.",
+    "getPremium": "Mehr kaufen →"
+  },
+  "footer": {
+    "builtBy": "Erstellt von"
+  }
+}
