@@ -1,5 +1,6 @@
 import '@testing-library/jest-dom'
 import { vi } from 'vitest'
+import React from 'react'
 
 // Mock i18n
 vi.mock('react-i18next', () => ({
@@ -19,10 +20,16 @@ vi.mock('react-i18next', () => ({
 // Mock framer-motion
 vi.mock('framer-motion', () => ({
   motion: {
-    div: ({ children, ...props }: any) => <div {...props}>{children}</div>,
-    span: ({ children, ...props }: any) => <span {...props}>{children}</span>
+    div: (props: React.HTMLAttributes<HTMLDivElement> & { children?: React.ReactNode }) => {
+      const { children, ...rest } = props
+      return React.createElement('div', rest, children)
+    },
+    span: (props: React.HTMLAttributes<HTMLSpanElement> & { children?: React.ReactNode }) => {
+      const { children, ...rest } = props
+      return React.createElement('span', rest, children)
+    }
   },
-  AnimatePresence: ({ children }: any) => children
+  AnimatePresence: ({ children }: { children: React.ReactNode }) => children
 }))
 
 // Mock fingerprint
